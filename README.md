@@ -14,7 +14,7 @@ you can can multiple todo in this app and it will save your data in local storag
 
 
 
-![App Screenshot](https://github.com/devtanzir/todo-list/tree/main/src/assets/images/todo.PNG)
+![App Screenshot](https://github.com/devtanzir/todo-list/blob/main/src/assets/images/todo.PNG)
 
 
 ## Edited
@@ -23,13 +23,13 @@ If you miss any todo or if you have to edit any todo, you can do that 🚀
 
 for edit you just have to click on the pen icon and it will be editable. then just click the file icon and it will save Automatically
 
-![App Screenshot](https://github.com/devtanzir/todo-list/tree/main/src/assets/images/edit.PNG)
+![App Screenshot](https://github.com/devtanzir/todo-list/blob/main/src/assets/images/edit.PNG)
 
 ## Completed 🚀🚀
 
 if you Complete any todo just click the checkbox and it will save as readonly. 
 
-![App Screenshot](https://github.com/devtanzir/todo-list/tree/main/src/assets/images/complete.PNG)
+![App Screenshot](https://github.com/devtanzir/todo-list/blob/main/src/assets/images/complete.PNG)
 
 ## Delete
 
